@@ -8,13 +8,13 @@
 		<version>2.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>student-api</groupId>
 	<artifactId>student-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>student-api</name>
 	<description>student-api</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>16</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
